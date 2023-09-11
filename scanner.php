@@ -24,6 +24,7 @@
                 }
 
 
+
             }
             var html5QrcodeScanner = new Html5QrcodeScanner(
                 "qr-reader", {
